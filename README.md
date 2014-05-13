@@ -1,4 +1,4 @@
 PROV-man
 ========
 
-Provenance Manager
+Provenance Manager: Implementation of the PROV Standard
